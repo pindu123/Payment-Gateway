@@ -2,6 +2,8 @@ nav{
 		display: flex; 
 		flex-direction: left;
 		justify-content:space-between;
+	        background-color:#ffe6ff;
+		height:70px;
 		 
 		box-shadow: 5px 5px 5px #f1e9f7;
 		box-sizing: 100px 100px 100px;
